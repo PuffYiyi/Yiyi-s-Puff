@@ -1,0 +1,43 @@
+site_name: Yiyi's Puff
+nav:
+- Introduction: introduction/introduction.md
+- proses: 
+  - 随笔(日寄: 
+    - 2024-04-19: proses/随笔/2024-04-19.md
+    - 2024-04-23: proses/随笔/2024-04-23.md
+    - 2024-05-02: proses/随笔/2024-05-02.md
+    - 2024-05-10: proses/随笔/2024-05-10.md
+    - 2024-06-08: proses/随笔/2024-06-08.md
+    - 2024-08-22: proses/随笔/2024-08-22.md
+  - 与TA的故事: 1.md
+  - 世界美好，环环相扣: 2.md
+  - 生日记: 
+    - 妈妈の45: proses/生日记/A-litter-to-45.md
+
+  - 游记: 
+    - 2024-04-清明节: proses/游记/2024-04-清明节.md
+- reviews: 
+  - 影评: 
+    - Portrait_of_a_lady_on_fire: reviews/影评/Portrait_of_a_lady_on_fire.md
+    - 花束般的恋爱: reviews/影评/花束般的恋爱.md
+  - 书评: 
+    - 苏格拉底的申辩: reviews/书评/苏格拉底的申辩.md
+    - 长安的荔枝: reviews/书评/长安的荔枝.md
+    - 人生的十二法则: reviews/书评/人生十二法则.md
+theme:
+  name: material   # 主题的文件名
+  logo: img/favicon.ico  # 设置图标/注意文件的引用方式
+  palette:
+    primary: "black"
+    accent: "deep orange" #点击链接时的显示颜色
+  #Red， Pink Purple Deep Purple Indigo Blue Light Blue Cyan Teal Green Light Green Lime Yellow Amber Orange Deep Orange Brown 
+  #Grey Blue Grey Black White（不可用于accent）
+
+  # theme:
+    #  name: "material"
+    #  logo:
+    #      icon: "mkdocs"
+    #  palette:
+    #      primary: "black"
+    #     accent: "deep orange"
+    #  language: "zh"
