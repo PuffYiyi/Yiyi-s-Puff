@@ -24,6 +24,10 @@ nav:
     - 苏格拉底的申辩: reviews/书评/苏格拉底的申辩.md
     - 长安的荔枝: reviews/书评/长安的荔枝.md
     - 人生的十二法则: reviews/书评/人生十二法则.md
+- Yiyi&Tao:
+  - velog: 
+    - velog/The_Beginning.md
+  - here2there: 1.md
 theme:
   name: material   # 主题的文件名
   logo: img/favicon.ico  # 设置图标/注意文件的引用方式
