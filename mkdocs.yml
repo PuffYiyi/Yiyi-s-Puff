@@ -2,7 +2,7 @@ site_name: Yiyi's Puff
 nav:
 - Introduction: introduction/introduction.md
 - proses: 
-  - 随笔(日寄: 
+  - 随笔: 
     - 2024-04-19: proses/随笔/2024-04-19.md
     - 2024-04-23: proses/随笔/2024-04-23.md
     - 2024-05-02: proses/随笔/2024-05-02.md
@@ -27,6 +27,7 @@ nav:
 - Yiyi&Tao:
   - velog: 
     - Yiyi&Tao/velog/The_Beginning.md
+    - Yiyi&Tao/velog/从《李银河说爱情》看和小桃的关系.md
   - here2there: 1.md
 theme:
   name: material   # 主题的文件名
