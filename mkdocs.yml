@@ -2,18 +2,19 @@ site_name: Yiyi's Puff
 nav:
 - Introduction: introduction/introduction.md
 - proses: 
-  - 随笔: 
+  - 随笔(日寄: 
     - 2024-04-19: proses/随笔/2024-04-19.md
     - 2024-04-23: proses/随笔/2024-04-23.md
     - 2024-05-02: proses/随笔/2024-05-02.md
     - 2024-05-10: proses/随笔/2024-05-10.md
     - 2024-06-08: proses/随笔/2024-06-08.md
     - 2024-08-22: proses/随笔/2024-08-22.md
+    - 
   - 与TA的故事: 1.md
   - 世界美好，环环相扣: 2.md
   - 生日记: 
     - 妈妈の45: proses/生日记/A-litter-to-45.md
-
+    - 19岁生日: proses/随笔/2024-08-22.md
   - 游记: 
     - 2024-04-清明节: proses/游记/2024-04-清明节.md
 - reviews: 
@@ -24,11 +25,14 @@ nav:
     - 苏格拉底的申辩: reviews/书评/苏格拉底的申辩.md
     - 长安的荔枝: reviews/书评/长安的荔枝.md
     - 人生的十二法则: reviews/书评/人生十二法则.md
+    - 停车暂借问：赵宁静传奇: reviews/停车暂借问：赵宁静传奇.md
+    - 一句顶一万句: reviews/书评/人生桩桩件件，该如何码放.md
 - Yiyi&Tao:
-  - velog: 
-    - Yiyi&Tao/velog/The_Beginning.md
-    - Yiyi&Tao/velog/从《李银河说爱情》看和小桃的关系.md
-  - here2there: 1.md
+  - velog: Yiyi&Tao/velog/The_Beginning.md
+  - here2there: 4.md
+
+
+
 theme:
   name: material   # 主题的文件名
   logo: img/favicon.ico  # 设置图标/注意文件的引用方式
