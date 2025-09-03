@@ -1,0 +1,31 @@
+{
+  "pages": [ "pages/login/login",
+    "pages/patient-index/patient-index",
+    "pages/patient-information/patient-information",
+    "pages/family/family",
+    "pages/bind/bind",
+    "pages/todo/todo",
+    "pages/memo/memo",
+    "pages/information-checkin/information-checkin",
+    "pages/gameandmusic/gameandmusic",
+    "pages/music/music",
+    "pages/choose-game/choose-game",
+    "pages/game3/game3",
+    "pages/game1/game1",
+    "pages/game2/game2",
+    "pages/index/index",
+    "pages/identify/identify",
+    "pages/register/register",
+    "pages/digital-memory/digital-memory",
+    "pages/logs/logs"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "忆点通",
+    "navigationBarBackgroundColor": "#ffffff"
+  },
+  "style": "v2",
+  "componentFramework": "glass-easel",
+  "sitemapLocation": "sitemap.json",
+  "lazyCodeLoading": "requiredComponents"
+}
